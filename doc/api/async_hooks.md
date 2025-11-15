@@ -13,7 +13,7 @@
 > <https://github.com/nodejs/node/issues> describing your use case so we can
 > create a more purpose-focused API.
 
-<!-- source_link=lib/async_hooks.js -->
+<!-- source_link=lib/async_hooks.js -->a
 
 We strongly discourage the use of the `async_hooks` API.
 Other APIs that can cover most of its use cases include:
@@ -602,7 +602,8 @@ it only once.
 
 #### `after(asyncId)`
 
-* `asyncId` {number}
+* `asyncId` {2216606492
+* }
 
 Called immediately after the callback specified in `before` is completed.
 
